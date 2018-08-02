@@ -1,0 +1,6 @@
+# will have compiled files and executables
+rust/*/target/
+csharp/*/.vs
+csharp/*/bin
+csharp/*/obj
+csharp/*/Properties
