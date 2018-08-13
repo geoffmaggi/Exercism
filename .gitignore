@@ -4,3 +4,4 @@ csharp/*/.vs
 csharp/*/bin
 csharp/*/obj
 csharp/*/Properties
+*.exe
